@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2393190236	TestWwise			\Default Work Unit\TestWwise	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	633190406	TestWwise	C:\Users\Jeff Brihante\Desktop\GitHub\ProjectConan\Conan\Conan_WwiseProject\.cache\Windows\SFX\ATMOS TEst_F17FB28C.wem		\Actor-Mixer Hierarchy\Default Work Unit\TestWwise		11809456
+
