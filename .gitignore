@@ -44,6 +44,9 @@
 *.VC.db
 *.VC.opendb
 
+# Debug files
+#.pdb
+
 # Precompiled Assets
 SourceArt/**/*.png
 SourceArt/**/*.tga
@@ -73,7 +76,3 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-
-!SoundBanks*
-!GeneratedSoundBanks*
-Conan/Conan_WwiseProject/
