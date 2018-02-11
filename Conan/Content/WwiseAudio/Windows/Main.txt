@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	580223486	WhiteNoise			\Default Work Unit\WhiteNoise	
+
+Source plug-ins	ID	Name	Type		Wwise Object Path	Notes
+	1015227137	Wwise Tone Generator	Wwise Tone Generator		\Actor-Mixer Hierarchy\Default Work Unit\WhiteNoise\Wwise Tone Generator	
+

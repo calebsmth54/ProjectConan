@@ -1,0 +1,32 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "11",
+  "SoundbankVersion": "128",
+  "RootPaths": {
+   "ProjectRoot": "C:\\Users\\Jeff Brihante\\Desktop\\GitHub\\ProjectConan\\Conan\\Conan_WwiseProject\\",
+   "SourceFilesRoot": "C:\\Users\\Jeff Brihante\\Desktop\\GitHub\\ProjectConan\\Conan\\Conan_WwiseProject\\.cache\\Windows\\",
+   "SoundBanksRoot": "C:\\Users\\Jeff Brihante\\Desktop\\GitHub\\ProjectConan\\Conan\\Content\\WwiseAudio\\Windows\\",
+   "ExternalSourcesInputFile": "",
+   "ExternalSourcesOutputRoot": "C:\\Users\\Jeff Brihante\\Desktop\\GitHub\\ProjectConan\\Conan\\Conan_WwiseProject\\GeneratedSoundBanks\\Windows\\"
+  },
+  "SoundBanks": [
+   {
+    "Id": "3161908922",
+    "Language": "SFX",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Main",
+    "ShortName": "Main",
+    "Path": "Main.bnk",
+    "IncludedEvents": [
+     {
+      "Id": "580223486",
+      "Name": "WhiteNoise",
+      "ObjectPath": "\\Events\\Default Work Unit\\WhiteNoise",
+      "MaxAttenuation": "100.000000"
+     }
+    ]
+   }
+  ]
+ }
+}

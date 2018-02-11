@@ -1,0 +1,34 @@
+{
+ "PluginInfo": {
+  "Project": "Conan_WwiseProject",
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "Plugins": {
+   "Plugin": {
+    "Name": "Wwise Tone Generator",
+    "ID": "6684674",
+    "DLL": "AkToneGen"
+   },
+   "Plugin": {
+    "Name": "Oculus Spatializer",
+    "ID": "9572518",
+    "DLL": "OculusSpatializerWwise"
+   },
+   "Plugin": {
+    "Name": "System",
+    "ID": "11403271",
+    "DLL": "DefaultSink"
+   },
+   "Plugin": {
+    "Name": "Communication",
+    "ID": "11534343",
+    "DLL": "DefaultSink"
+   },
+   "Plugin": {
+    "Name": "No Output",
+    "ID": "11862023",
+    "DLL": "DefaultSink"
+   }
+  }
+ }
+}
