@@ -17,59 +17,23 @@
   "SoundBanks": [
    {
     "Id": "1355168291",
-    "GUID": "{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}",
     "Language": "SFX",
     "ObjectPath": "Init",
     "ShortName": "Init",
     "Path": "Init.bnk"
    },
    {
-    "Id": "2880737896",
-    "GUID": "{5BD706FD-9A13-4F64-A612-6DDEDAD424AA}",
-    "Language": "SFX",
-    "ObjectPath": "\\SoundBanks\\Default Work Unit\\MainBank",
-    "ShortName": "MainBank",
-    "Path": "MainBank.bnk",
-    "IncludedEvents": [
-     {
-      "Id": "2393190236",
-      "Name": "TestWwise",
-      "ObjectPath": "\\Events\\Default Work Unit\\TestWwise",
-      "GUID": "{9FA6D533-D50C-495D-B908-E6E4E69193F4}",
-      "MaxAttenuation": "100.000000"
-     }
-    ],
-    "IncludedMemoryFiles": [
-     {
-      "Id": "633190406",
-      "Language": "SFX",
-      "ShortName": "ATMOS TEst.wav",
-      "Path": "SFX\\ATMOS TEst_F17FB28C.wem"
-     }
-    ]
-   },
-   {
     "Id": "3161908922",
-    "GUID": "{0C115FB3-E53B-49FA-973D-BF828A3A83F0}",
     "Language": "SFX",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\Main",
     "ShortName": "Main",
     "Path": "Main.bnk",
     "IncludedEvents": [
      {
-      "Id": "2393190236",
-      "Name": "TestWwise",
-      "ObjectPath": "\\Events\\Default Work Unit\\TestWwise",
-      "GUID": "{9FA6D533-D50C-495D-B908-E6E4E69193F4}",
+      "Id": "580223486",
+      "Name": "WhiteNoise",
+      "ObjectPath": "\\Events\\Default Work Unit\\WhiteNoise",
       "MaxAttenuation": "100.000000"
-     }
-    ],
-    "IncludedMemoryFiles": [
-     {
-      "Id": "633190406",
-      "Language": "SFX",
-      "ShortName": "ATMOS TEst.wav",
-      "Path": "SFX\\ATMOS TEst_F17FB28C.wem"
      }
     ]
    }

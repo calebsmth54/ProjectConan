@@ -5,6 +5,16 @@
   "BasePlatform": "Windows",
   "Plugins": {
    "Plugin": {
+    "Name": "Wwise Tone Generator",
+    "ID": "6684674",
+    "DLL": "AkToneGen"
+   },
+   "Plugin": {
+    "Name": "Oculus Spatializer",
+    "ID": "9572518",
+    "DLL": "OculusSpatializerWwise"
+   },
+   "Plugin": {
     "Name": "System",
     "ID": "11403271",
     "DLL": "DefaultSink"
