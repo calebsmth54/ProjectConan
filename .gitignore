@@ -76,11 +76,3 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-
-!SoundBanks*
-!GeneratedSoundBanks*
-Conan/Conan_WwiseProject/
-Intermediate
-Saved
-*.pdb
-/Conan/Plugins/Wwise/ThirdParty/Win32_vc140/Debug/lib/*.pdb
