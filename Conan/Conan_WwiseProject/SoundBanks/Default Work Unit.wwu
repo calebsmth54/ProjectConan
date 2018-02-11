@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{0F8903A8-7C6D-4060-B78C-F4AD7DE7F74A}" SchemaVersion="85">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{0F8903A8-7C6D-4060-B78C-F4AD7DE7F74A}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="MainBank" ID="{5BD706FD-9A13-4F64-A612-6DDEDAD424AA}">
+					<ObjectInclusionList>
+						<ObjectRef Name="TestWwise" ID="{9FA6D533-D50C-495D-B908-E6E4E69193F4}" WorkUnitID="{1B3E8CA8-BD9D-4918-B6A8-75588EE20927}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>
