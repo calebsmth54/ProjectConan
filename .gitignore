@@ -79,3 +79,4 @@ DerivedDataCache/*
 !SoundBanks*
 !GeneratedSoundBanks*
 Conan/Conan_WwiseProject/
+/Conan/Plugins/Wwise/Binaries/Win64/*.pdb
