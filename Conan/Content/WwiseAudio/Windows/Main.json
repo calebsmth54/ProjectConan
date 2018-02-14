@@ -20,10 +20,40 @@
     "Path": "Main.bnk",
     "IncludedEvents": [
      {
+      "Id": "3637271409",
+      "Name": "Play_ShadeIntro",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_ShadeIntro"
+     },
+     {
+      "Id": "3981496687",
+      "Name": "Play_ShadeLoop",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_ShadeLoop"
+     },
+     {
+      "Id": "3243891278",
+      "Name": "Play_ShadeOutro",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_ShadeOutro",
+      "MaxAttenuation": "0.000000"
+     },
+     {
       "Id": "580223486",
       "Name": "WhiteNoise",
       "ObjectPath": "\\Events\\Default Work Unit\\WhiteNoise",
       "MaxAttenuation": "100.000000"
+     }
+    ],
+    "IncludedMemoryFiles": [
+     {
+      "Id": "167589727",
+      "Language": "SFX",
+      "ShortName": "ShadeIntro_01.wav",
+      "Path": "SFX\\ShadeIntro_01_1C9C67B2.wem"
+     },
+     {
+      "Id": "342275419",
+      "Language": "SFX",
+      "ShortName": "ShadeLoop_01.wav",
+      "Path": "SFX\\ShadeLoop_01_1C9C67B2.wem"
      }
     ]
    }

@@ -2,7 +2,7 @@ Audio Bus	ID	Name			Wwise Object Path	Notes
 	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
 
 Effect plug-ins	ID	Name	Type				Notes
-	749038651	Oculus Spatializer (Custom)	Oculus Spatializer			
+	416314789	Oculus Spatializer (Custom)	Oculus Spatializer			
 
 Audio Devices	ID	Name	Type				Notes
 	530303819	Communication	Communication			
