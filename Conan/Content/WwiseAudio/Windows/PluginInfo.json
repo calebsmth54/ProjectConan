@@ -10,6 +10,11 @@
     "DLL": "AkToneGen"
    },
    "Plugin": {
+    "Name": "Wwise Parametric EQ",
+    "ID": "6881283",
+    "DLL": "AkParametricEQ"
+   },
+   "Plugin": {
     "Name": "Oculus Spatializer",
     "ID": "9572518",
     "DLL": "OculusSpatializerWwise"

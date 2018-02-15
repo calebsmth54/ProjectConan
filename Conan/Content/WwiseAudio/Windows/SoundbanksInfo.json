@@ -30,6 +30,29 @@
     "Path": "Main.bnk",
     "IncludedEvents": [
      {
+      "Id": "2005150657",
+      "Name": "CityATMOS_Test",
+      "ObjectPath": "\\Events\\Default Work Unit\\CityATMOS_Test",
+      "MaxAttenuation": "100.000000"
+     },
+     {
+      "Id": "4216092624",
+      "Name": "Drone_Test",
+      "ObjectPath": "\\Events\\Default Work Unit\\Drone_Test",
+      "MaxAttenuation": "100.000000"
+     },
+     {
+      "Id": "1068347553",
+      "Name": "Music_Test",
+      "ObjectPath": "\\Events\\Default Work Unit\\Music_Test"
+     },
+     {
+      "Id": "3686212409",
+      "Name": "Play_HardstyleMusic",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_HardstyleMusic",
+      "MaxAttenuation": "100.000000"
+     },
+     {
       "Id": "3637271409",
       "Name": "Play_ShadeIntro",
       "ObjectPath": "\\Events\\Default Work Unit\\Play_ShadeIntro"
@@ -64,6 +87,12 @@
       "Path": "SFX\\ShadeIntro_01_1C9C67B2.wem"
      },
      {
+      "Id": "332183877",
+      "Language": "SFX",
+      "ShortName": "Drone_03.wav",
+      "Path": "SFX\\Drone_03_F17FB28C.wem"
+     },
+     {
       "Id": "342275419",
       "Language": "SFX",
       "ShortName": "ShadeLoop_01.wav",
@@ -76,10 +105,46 @@
       "Path": "SFX\\Teleport_01_4CF1380E.wem"
      },
      {
+      "Id": "556836524",
+      "Language": "SFX",
+      "ShortName": "CityAmbiance_03.wav",
+      "Path": "SFX\\CityAmbiance_03_1C9C67B2.wem"
+     },
+     {
       "Id": "849514308",
       "Language": "SFX",
       "ShortName": "ShadeOutro_01.wav",
       "Path": "SFX\\ShadeOutro_01_1C9C67B2.wem"
+     },
+     {
+      "Id": "871148961",
+      "Language": "SFX",
+      "ShortName": "CityAmbiance_01.wav",
+      "Path": "SFX\\CityAmbiance_01_1C9C67B2.wem"
+     },
+     {
+      "Id": "946052095",
+      "Language": "SFX",
+      "ShortName": "HardstyleMusic.wav",
+      "Path": "SFX\\HardstyleMusic_F17FB28C.wem"
+     },
+     {
+      "Id": "960765451",
+      "Language": "SFX",
+      "ShortName": "Vamp_Club_Demo_I (Post Limiter).wav",
+      "Path": "SFX\\Vamp_Club_Demo_I (Post Limiter)_F17FB28C.wem"
+     },
+     {
+      "Id": "983606000",
+      "Language": "SFX",
+      "ShortName": "CityAmbiance_02.wav",
+      "Path": "SFX\\CityAmbiance_02_1C9C67B2.wem"
+     },
+     {
+      "Id": "1066706788",
+      "Language": "SFX",
+      "ShortName": "CityAmbiance_04.wav",
+      "Path": "SFX\\CityAmbiance_04_1C9C67B2.wem"
      }
     ]
    }
