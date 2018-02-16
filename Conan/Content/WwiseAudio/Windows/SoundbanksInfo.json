@@ -42,7 +42,8 @@
      {
       "Id": "3243891278",
       "Name": "Play_ShadeOutro",
-      "ObjectPath": "\\Events\\Default Work Unit\\Play_ShadeOutro"
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_ShadeOutro",
+      "MaxAttenuation": "0.000000"
      },
      {
       "Id": "3785065891",
@@ -68,14 +69,22 @@
       "Language": "SFX",
       "ShortName": "Teleport_01.wav",
       "Path": "SFX\\Teleport_01_4CF1380E.wem"
-     },
-     {
-      "Id": "849514308",
-      "Language": "SFX",
-      "ShortName": "ShadeOutro_01.wav",
-      "Path": "SFX\\ShadeOutro_01_1C9C67B2.wem"
      }
     ]
+   },
+   {
+    "Id": "2329356479",
+    "Language": "SFX",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\StreetLevelAmiances",
+    "ShortName": "StreetLevelAmiances",
+    "Path": "StreetLevelAmiances.bnk"
+   },
+   {
+    "Id": "3317944528",
+    "Language": "SFX",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Drones",
+    "ShortName": "Drones",
+    "Path": "Drones.bnk"
    }
   ]
  }
