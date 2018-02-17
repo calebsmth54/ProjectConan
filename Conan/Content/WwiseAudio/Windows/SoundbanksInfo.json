@@ -23,6 +23,76 @@
     "Path": "Init.bnk"
    },
    {
+    "Id": "1551306167",
+    "Language": "SFX",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\UI",
+    "ShortName": "UI",
+    "Path": "UI.bnk",
+    "IncludedEvents": [
+     {
+      "Id": "2811776615",
+      "Name": "BloodTankTicks",
+      "ObjectPath": "\\Events\\Default Work Unit\\PC\\UI\\BloodTankTicks"
+     }
+    ],
+    "IncludedMemoryFiles": [
+     {
+      "Id": "78836509",
+      "Language": "SFX",
+      "ShortName": "BloodTank_ImpLayer_01.wav",
+      "Path": "SFX\\BloodTank_ImpLayer_01_1C9C67B2.wem"
+     },
+     {
+      "Id": "109678837",
+      "Language": "SFX",
+      "ShortName": "BloodTank_SquishLayer_01.wav",
+      "Path": "SFX\\BloodTank_SquishLayer_01_1C9C67B2.wem"
+     },
+     {
+      "Id": "287704691",
+      "Language": "SFX",
+      "ShortName": "BloodTank_SuckLayer_02.wav",
+      "Path": "SFX\\BloodTank_SuckLayer_02_1C9C67B2.wem"
+     },
+     {
+      "Id": "321380537",
+      "Language": "SFX",
+      "ShortName": "BloodTank_SquishLayer_03.wav",
+      "Path": "SFX\\BloodTank_SquishLayer_03_1C9C67B2.wem"
+     },
+     {
+      "Id": "347143586",
+      "Language": "SFX",
+      "ShortName": "BloodTank_SquishLayer_02.wav",
+      "Path": "SFX\\BloodTank_SquishLayer_02_1C9C67B2.wem"
+     },
+     {
+      "Id": "461341067",
+      "Language": "SFX",
+      "ShortName": "BloodTank_ImpLayer_02.wav",
+      "Path": "SFX\\BloodTank_ImpLayer_02_1C9C67B2.wem"
+     },
+     {
+      "Id": "627232636",
+      "Language": "SFX",
+      "ShortName": "BloodTank_ImpLayer_03.wav",
+      "Path": "SFX\\BloodTank_ImpLayer_03_1C9C67B2.wem"
+     },
+     {
+      "Id": "661076492",
+      "Language": "SFX",
+      "ShortName": "BloodTank_SuckLayer_03.wav",
+      "Path": "SFX\\BloodTank_SuckLayer_03_1C9C67B2.wem"
+     },
+     {
+      "Id": "985148415",
+      "Language": "SFX",
+      "ShortName": "BloodTank_SuckLayer_01.wav",
+      "Path": "SFX\\BloodTank_SuckLayer_01_1C9C67B2.wem"
+     }
+    ]
+   },
+   {
     "Id": "1901312945",
     "Language": "SFX",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\Abilities",
@@ -32,23 +102,23 @@
      {
       "Id": "3637271409",
       "Name": "Play_ShadeIntro",
-      "ObjectPath": "\\Events\\Default Work Unit\\Play_ShadeIntro"
+      "ObjectPath": "\\Events\\Default Work Unit\\PC\\Abilities\\Play_ShadeIntro"
      },
      {
       "Id": "3981496687",
       "Name": "Play_ShadeLoop",
-      "ObjectPath": "\\Events\\Default Work Unit\\Play_ShadeLoop"
+      "ObjectPath": "\\Events\\Default Work Unit\\PC\\Abilities\\Play_ShadeLoop"
      },
      {
       "Id": "3243891278",
       "Name": "Play_ShadeOutro",
-      "ObjectPath": "\\Events\\Default Work Unit\\Play_ShadeOutro",
+      "ObjectPath": "\\Events\\Default Work Unit\\PC\\Abilities\\Play_ShadeOutro",
       "MaxAttenuation": "0.000000"
      },
      {
       "Id": "3785065891",
       "Name": "Play_Teleport",
-      "ObjectPath": "\\Events\\Default Work Unit\\Play_Teleport"
+      "ObjectPath": "\\Events\\Default Work Unit\\PC\\Abilities\\Play_Teleport"
      }
     ],
     "IncludedMemoryFiles": [
