@@ -1,0 +1,27 @@
+Event	ID	Name			Wwise Object Path	Notes
+	117684359	AttackSwingWhoosh			\Default Work Unit\PC\Combat\AttackSwingWhoosh	
+	180661997	Attack			\Default Work Unit\PC\Combat\Attack	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	45016712	GoreLayer_03	C:\Users\Jeff Brihante\Desktop\GitHub\ProjectConan\Conan\Conan_WwiseProject\.cache\Windows\SFX\GoreLayer_03_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\PC\Combat\Attack\GoreLayer\GoreLayer_03		331160
+	52055223	Whoosh_LongLayer_03	C:\Users\Jeff Brihante\Desktop\GitHub\ProjectConan\Conan\Conan_WwiseProject\.cache\Windows\SFX\Whoosh_LongLayer_03_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\PC\Combat\Swing\LongWhoosh\Whoosh_LongLayer_03		30846
+	122024111	Whoosh_PunchLayer_01	C:\Users\Jeff Brihante\Desktop\GitHub\ProjectConan\Conan\Conan_WwiseProject\.cache\Windows\SFX\Whoosh_PunchLayer_01_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\PC\Combat\Swing\PunchLayer\Whoosh_PunchLayer_01		27932
+	178330762	WhooshLayer_03	C:\Users\Jeff Brihante\Desktop\GitHub\ProjectConan\Conan\Conan_WwiseProject\.cache\Windows\SFX\WhooshLayer_03_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\PC\Combat\Attack\WhooshSlashLayer\WhooshLayer_03		136638
+	211484516	Whoosh_QuickLayer_03	C:\Users\Jeff Brihante\Desktop\GitHub\ProjectConan\Conan\Conan_WwiseProject\.cache\Windows\SFX\Whoosh_QuickLayer_03_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\PC\Combat\Swing\QuickWhoosh\Whoosh_QuickLayer_03		30846
+	215615229	GoreLayer_02	C:\Users\Jeff Brihante\Desktop\GitHub\ProjectConan\Conan\Conan_WwiseProject\.cache\Windows\SFX\GoreLayer_02_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\PC\Combat\Attack\GoreLayer\GoreLayer_02		119362
+	232311266	Whoosh_LongLayer_01	C:\Users\Jeff Brihante\Desktop\GitHub\ProjectConan\Conan\Conan_WwiseProject\.cache\Windows\SFX\Whoosh_LongLayer_01_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\PC\Combat\Swing\LongWhoosh\Whoosh_LongLayer_01		27932
+	255597937	BladeLayer_03	C:\Users\Jeff Brihante\Desktop\GitHub\ProjectConan\Conan\Conan_WwiseProject\.cache\Windows\SFX\BladeLayer_03_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\PC\Combat\Attack\BladeLayer\BladeLayer_03		136638
+	278183519	Whoosh_PunchLayer_03	C:\Users\Jeff Brihante\Desktop\GitHub\ProjectConan\Conan\Conan_WwiseProject\.cache\Windows\SFX\Whoosh_PunchLayer_03_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\PC\Combat\Swing\PunchLayer\Whoosh_PunchLayer_03		30846
+	285060290	WhooshLayer_01	C:\Users\Jeff Brihante\Desktop\GitHub\ProjectConan\Conan\Conan_WwiseProject\.cache\Windows\SFX\WhooshLayer_01_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\PC\Combat\Attack\WhooshSlashLayer\WhooshLayer_01		119294
+	289020030	Whoosh_PunchLayer_02	C:\Users\Jeff Brihante\Desktop\GitHub\ProjectConan\Conan\Conan_WwiseProject\.cache\Windows\SFX\Whoosh_PunchLayer_02_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\PC\Combat\Swing\PunchLayer\Whoosh_PunchLayer_02		50744
+	392982558	BladeLayer_01	C:\Users\Jeff Brihante\Desktop\GitHub\ProjectConan\Conan\Conan_WwiseProject\.cache\Windows\SFX\BladeLayer_01_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\PC\Combat\Attack\BladeLayer\BladeLayer_01		119294
+	534365435	ImpLayer_01	C:\Users\Jeff Brihante\Desktop\GitHub\ProjectConan\Conan\Conan_WwiseProject\.cache\Windows\SFX\ImpLayer_01_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\PC\Combat\Attack\ImpLayer\ImpLayer_01		119294
+	684930986	Whoosh_LongLayer_02	C:\Users\Jeff Brihante\Desktop\GitHub\ProjectConan\Conan\Conan_WwiseProject\.cache\Windows\SFX\Whoosh_LongLayer_02_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\PC\Combat\Swing\LongWhoosh\Whoosh_LongLayer_02		50744
+	689423828	Whoosh_QuickLayer_02	C:\Users\Jeff Brihante\Desktop\GitHub\ProjectConan\Conan\Conan_WwiseProject\.cache\Windows\SFX\Whoosh_QuickLayer_02_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\PC\Combat\Swing\QuickWhoosh\Whoosh_QuickLayer_02		50744
+	730180755	ImpLayer_03	C:\Users\Jeff Brihante\Desktop\GitHub\ProjectConan\Conan\Conan_WwiseProject\.cache\Windows\SFX\ImpLayer_03_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\PC\Combat\Attack\ImpLayer\ImpLayer_03		136638
+	755306187	WhooshLayer_02	C:\Users\Jeff Brihante\Desktop\GitHub\ProjectConan\Conan\Conan_WwiseProject\.cache\Windows\SFX\WhooshLayer_02_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\PC\Combat\Attack\WhooshSlashLayer\WhooshLayer_02		119362
+	838539425	ImpLayer_02	C:\Users\Jeff Brihante\Desktop\GitHub\ProjectConan\Conan\Conan_WwiseProject\.cache\Windows\SFX\ImpLayer_02_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\PC\Combat\Attack\ImpLayer\ImpLayer_02		119362
+	857899875	Whoosh_QuickLayer_01	C:\Users\Jeff Brihante\Desktop\GitHub\ProjectConan\Conan\Conan_WwiseProject\.cache\Windows\SFX\Whoosh_QuickLayer_01_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\PC\Combat\Swing\QuickWhoosh\Whoosh_QuickLayer_01		27932
+	918573006	BladeLayer_02	C:\Users\Jeff Brihante\Desktop\GitHub\ProjectConan\Conan\Conan_WwiseProject\.cache\Windows\SFX\BladeLayer_02_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\PC\Combat\Attack\BladeLayer\BladeLayer_02		119362
+	1068393477	GoreLayer_01	C:\Users\Jeff Brihante\Desktop\GitHub\ProjectConan\Conan\Conan_WwiseProject\.cache\Windows\SFX\GoreLayer_01_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\PC\Combat\Attack\GoreLayer\GoreLayer_01		119294
+
