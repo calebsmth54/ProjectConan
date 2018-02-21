@@ -14,6 +14,7 @@
 			<Path>PC_Combat.bnk</Path>
 			<IncludedEvents>
 				<Event Id="180661997" Name="Attack" ObjectPath="\Events\Default Work Unit\PC\Combat\Attack"/>
+				<Event Id="1549372572" Name="Attack_GoreLayer" ObjectPath="\Events\Default Work Unit\PC\Combat\Attack_GoreLayer"/>
 				<Event Id="117684359" Name="AttackSwingWhoosh" ObjectPath="\Events\Default Work Unit\PC\Combat\AttackSwingWhoosh"/>
 			</IncludedEvents>
 			<IncludedMemoryFiles>

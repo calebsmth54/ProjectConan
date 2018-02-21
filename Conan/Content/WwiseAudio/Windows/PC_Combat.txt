@@ -1,6 +1,7 @@
 Event	ID	Name			Wwise Object Path	Notes
 	117684359	AttackSwingWhoosh			\Default Work Unit\PC\Combat\AttackSwingWhoosh	
 	180661997	Attack			\Default Work Unit\PC\Combat\Attack	
+	1549372572	Attack_GoreLayer			\Default Work Unit\PC\Combat\Attack_GoreLayer	
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	45016712	GoreLayer_03	C:\Users\Jeff Brihante\Desktop\GitHub\ProjectConan\Conan\Conan_WwiseProject\.cache\Windows\SFX\GoreLayer_03_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\PC\Combat\Attack\GoreLayer\GoreLayer_03		331160
