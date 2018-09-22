@@ -2,6 +2,8 @@
 
 A small experimentation for #OneGameAMonth in which we attempted to prototype a character action game where players would control a cybernetic vampire on their hunt for revenge in a distant dystopian future.
 
+Made with UE4.
+
 Art - Claire Mckellip
 
 Art - Dustin Lara
